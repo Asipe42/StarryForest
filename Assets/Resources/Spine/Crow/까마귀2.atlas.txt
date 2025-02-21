@@ -1,0 +1,24 @@
+까마귀2.png
+size:520,769
+filter:Linear,Linear
+pma:true
+나는 몽통
+bounds:2,56,436,122
+rotate:90
+누운 뒷발
+bounds:432,594,51,27
+누운 앞발
+bounds:2,18,70,36
+뒷발
+bounds:403,60,71,132
+몸통
+bounds:2,494,428,273
+아랫 날개
+bounds:323,194,195,298
+앞발
+bounds:432,623,66,144
+윗날개
+bounds:126,188,195,304
+중간
+bounds:126,2,275,184
+offsets:1,2,278,187

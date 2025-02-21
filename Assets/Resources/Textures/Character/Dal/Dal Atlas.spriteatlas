@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dal Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d54d3d08a3e029a41ba4a3629a1335e6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1149768042, guid: 2b758f1123275da4582dbf458b6615a5, type: 3}
+  - {fileID: -927510694, guid: 2b758f1123275da4582dbf458b6615a5, type: 3}
+  - {fileID: 441102218, guid: 2b758f1123275da4582dbf458b6615a5, type: 3}
+  - {fileID: -1577617373, guid: 2b758f1123275da4582dbf458b6615a5, type: 3}
+  - {fileID: 1248236158, guid: 2b758f1123275da4582dbf458b6615a5, type: 3}
+  - {fileID: 1794414894, guid: 23776fd3200d469459d96d654338e67e, type: 3}
+  - {fileID: -613901600, guid: 23776fd3200d469459d96d654338e67e, type: 3}
+  - {fileID: 781445549, guid: 23776fd3200d469459d96d654338e67e, type: 3}
+  - {fileID: -66712512, guid: 23776fd3200d469459d96d654338e67e, type: 3}
+  - {fileID: 18116516, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -1345846088, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: 1106492506, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -527010811, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -473066307, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -1701815751, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -322803633, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -1571543356, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -1626645506, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: 374035985, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: 418099133, guid: 7587e704bbab93449b83decdf45f688a, type: 3}
+  - {fileID: -1971234412, guid: 5493f415c2836794998bb6445e6a8ecc, type: 3}
+  - {fileID: 1779648175, guid: 5493f415c2836794998bb6445e6a8ecc, type: 3}
+  - {fileID: 1381599985, guid: 63459325e094f4b42bea716ac8ae4c1f, type: 3}
+  - {fileID: -1634202394, guid: 63459325e094f4b42bea716ac8ae4c1f, type: 3}
+  - {fileID: -1474250827, guid: 63459325e094f4b42bea716ac8ae4c1f, type: 3}
+  - {fileID: 1168524098, guid: 63459325e094f4b42bea716ac8ae4c1f, type: 3}
+  - {fileID: 366230470, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: 2143406982, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: -107106353, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: -940933292, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: 1533610747, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: 1343757354, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: 761337710, guid: 76781d858767f4443a3c84f74a51c965, type: 3}
+  - {fileID: 979201883, guid: 60262d77b8fb4b24ab50aa68e9e2f988, type: 3}
+  - {fileID: 1457487669, guid: 60262d77b8fb4b24ab50aa68e9e2f988, type: 3}
+  - {fileID: 2139301274, guid: 60262d77b8fb4b24ab50aa68e9e2f988, type: 3}
+  - {fileID: 1549244612, guid: 60262d77b8fb4b24ab50aa68e9e2f988, type: 3}
+  - {fileID: 1416491340, guid: 60262d77b8fb4b24ab50aa68e9e2f988, type: 3}
+  - {fileID: -1889113093, guid: 60262d77b8fb4b24ab50aa68e9e2f988, type: 3}
+  - {fileID: 1211753099, guid: 86df49fa75c1636408261c1a6f231dc3, type: 3}
+  - {fileID: 466812659, guid: 86df49fa75c1636408261c1a6f231dc3, type: 3}
+  - {fileID: -1771149303, guid: 86df49fa75c1636408261c1a6f231dc3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Dal_Jump_0
+  - Dal_Jump_1
+  - Dal_Jump_2
+  - Dal_Jump_3
+  - Dal_Jump_4
+  - Dal_Walk_3
+  - Dal_Walk_2
+  - Dal_Walk_1
+  - Dal_Walk_0
+  - Dal_Downhill_10
+  - Dal_Downhill_9
+  - Dal_Downhill_8
+  - Dal_Downhill_1
+  - Dal_Downhill_0
+  - Dal_Downhill_3
+  - Dal_Downhill_2
+  - Dal_Downhill_5
+  - Dal_Downhill_4
+  - Dal_Downhill_7
+  - Dal_Downhill_6
+  - Dal_Hit_1
+  - Dal_Hit_0
+  - Dal_Idle_2
+  - Dal_Idle_3
+  - Dal_Idle_0
+  - Dal_Idle_1
+  - Dal_Run_1
+  - Dal_Run_0
+  - Dal_Run_3
+  - Dal_Run_2
+  - Dal_Run_5
+  - Dal_Run_4
+  - Dal_Run_6
+  - Dal_Standup_5
+  - Dal_Standup_4
+  - Dal_Standup_1
+  - Dal_Standup_0
+  - Dal_Standup_3
+  - Dal_Standup_2
+  - Dal_Slide_1
+  - Dal_Slide_0
+  - Dal_Slide_2
+  m_RenderDataMap: {}
+  m_Tag: Dal Atlas
+  m_IsVariant: 0
