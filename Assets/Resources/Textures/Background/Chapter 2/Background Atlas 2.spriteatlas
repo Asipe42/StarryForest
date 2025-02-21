@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background Atlas 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: afc37a4fd8715ee459aae15274936729, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3b4ef5c5180151f4abcc19039bdc0973, type: 3}
+  - {fileID: 21300000, guid: b0873708a7aa1a14dad7df1ac0206011, type: 3}
+  - {fileID: 21300000, guid: 38b7b4abf5ee4fc42bc9dabfdb805607, type: 3}
+  - {fileID: 21300000, guid: ffa0831cbf2c6c44a92627fcd64dd040, type: 3}
+  - {fileID: 21300000, guid: 153b2eedcee8020459e4a88d19cf677c, type: 3}
+  - {fileID: 21300000, guid: c30b538e4eee5384cb9d3cfff92bce4f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Floor_2_1
+  - Layer_2_1
+  - Layer_2_2
+  - Floor_2_3
+  - Floor_2_4
+  - Floor_2_2
+  m_RenderDataMap: {}
+  m_Tag: Background Atlas 2
+  m_IsVariant: 0

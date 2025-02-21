@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HUD Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e701b46a081d834597827cc95fc2347, type: 3}
+    - {fileID: 102900000, guid: 8b9e772d215fec34c8557f6c0501b33c, type: 3}
+    - {fileID: 102900000, guid: a840e750e1dddfd44a66e470950ddfae, type: 3}
+    - {fileID: 102900000, guid: 2f2d6f4c8598116479c4033267e401c1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8e024410592a79d47bdb5a7663f58cc6, type: 3}
+  - {fileID: 21300000, guid: 43f0fa90fa2790345b79f42f2242185b, type: 3}
+  - {fileID: 21300000, guid: 15a01b72d43edad4a927e645750c0fc8, type: 3}
+  - {fileID: 21300000, guid: 5b9366836870a7d4c8404107b704af7c, type: 3}
+  - {fileID: 21300000, guid: 98f7070640157ed4ba00194c33e8d44e, type: 3}
+  - {fileID: 21300000, guid: 04d78e363bdb7124aa9beabfe63285bc, type: 3}
+  - {fileID: 21300000, guid: d42f38c6cdcc25a43bf925b77de43baf, type: 3}
+  - {fileID: 21300000, guid: 048223b903ce83849b1a9759caa41e0b, type: 3}
+  - {fileID: 21300000, guid: 0153e3ab6a078cf4f87a182bdfc3aa35, type: 3}
+  - {fileID: 21300000, guid: a844022c3085b1d44ad0a8a5a23bc297, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyProgressBar
+  - HP Icon
+  - Booster Empty
+  - Booster Full
+  - HP Bar Empty
+  - FullProgressBar
+  - Combo
+  - Booster Icon
+  - HP Bar Full
+  - Combo Effect
+  m_RenderDataMap: {}
+  m_Tag: HUD Atlas
+  m_IsVariant: 0

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Obstacle Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: af7fe161c38d68948a3bf770d9b1196a, type: 3}
+    - {fileID: 102900000, guid: 67c14af2f67087c429aa9836c0a79ca6, type: 3}
+    - {fileID: 102900000, guid: ef5a0178cab78174d90d65cbf1f51d73, type: 3}
+    - {fileID: 102900000, guid: f2fe0303a6d4bb7489eab09d4c36645e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 80b5ed60064177e429630b05b8515755, type: 3}
+  - {fileID: 1697904622, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: 1985962217, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: -729806361, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: 1307540043, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: 855682617, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: -1014903404, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: 1061656888, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: 1074801554, guid: 7fefe1e15a854944da705758bf0c7292, type: 3}
+  - {fileID: 21300000, guid: 8409fef35a399024e9bd484780927ef4, type: 3}
+  - {fileID: 21300000, guid: 6309c8681b580a446a0b3015597a9770, type: 3}
+  - {fileID: 21300000, guid: 71ea5b880d635aa41996e35f29bccc26, type: 3}
+  - {fileID: 21300000, guid: 9c31ce8859a4cee40af81d2b06ee637f, type: 3}
+  - {fileID: 21300000, guid: 2181a65a0ffe2d242a404410de25914c, type: 3}
+  - {fileID: 21300000, guid: 6bddfe5a76b32e44ab0bc50e241b1854, type: 3}
+  - {fileID: 21300000, guid: 5a8575bb25f81c04a867e085862dca52, type: 3}
+  - {fileID: 21300000, guid: 4646763ced522b74bb14245ac037a830, type: 3}
+  - {fileID: -346969302, guid: 72b9ca6fb6fa0364dbda6b165b65585e, type: 3}
+  - {fileID: 624813096, guid: 72b9ca6fb6fa0364dbda6b165b65585e, type: 3}
+  - {fileID: 1991071501, guid: 72b9ca6fb6fa0364dbda6b165b65585e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Branch
+  - Frog_0
+  - Frog_1
+  - Frog_2
+  - Frog_3
+  - Frog_4
+  - Frog_5
+  - Frog_6
+  - Frog_7
+  - Thorn_B
+  - Vine_B
+  - vineC
+  - Thorn_A
+  - Web
+  - Vine_A
+  - Vine_2
+  - Stone
+  - Sparrow_0
+  - Sparrow_1
+  - Sparrow_2
+  m_RenderDataMap: {}
+  m_Tag: Obstacle Atlas
+  m_IsVariant: 0
